@@ -75,6 +75,6 @@ public class Variable {
 		//5. 나머지 구하기 (%)
 		System.out.print("나머지(%) : ");
 		System.out.println(number6 % number5);
-		   
+		
 	}
 }
