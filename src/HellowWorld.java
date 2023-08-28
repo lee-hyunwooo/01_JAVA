@@ -40,7 +40,7 @@ public class HellowWorld {
 	   
 	   System.out.print("줄바꿈 없는 프린트!");
 	   System.out.print("진짜로 줄을 안바꿉니다.");
-	   
+	     
 	   System.out.println();
 	   System.out.print("안녕하세요");
 	   System.out.print("     ");

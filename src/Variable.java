@@ -57,20 +57,24 @@ public class Variable {
 		int number5 = 8;
 		int number6 = 9;
 		//1. 더하기
-		System.out.print("더하기 : ");
+		System.out.print("더하기(+) : ");
 		System.out.println(number5 + number6);
 		
 		//2. 빼기
-		System.out.print("빼기 : ");
+		System.out.print("빼기(-) : ");
 		System.out.println(number6 - number5);
 		
 		//3. 곱하기
-		System.out.print("곱하기 : ");
+		System.out.print("곱하기(*) : ");
 		System.out.println(number5 * number6);
 		
 		//4. 나누기
-		System.out.print("나누기 : ");
+		System.out.print("나누기(/) : ");
 		System.out.println(number6 / number5);
 		
+		//5. 나머지 구하기 (%)
+		System.out.print("나머지(%) : ");
+		System.out.println(number6 % number5);
+		   
 	}
 }
